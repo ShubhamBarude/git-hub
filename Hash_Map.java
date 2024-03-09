@@ -1,6 +1,7 @@
 package Collection;
 
 import java.util.*;
+//updates
 
 public class Hash_Map
 {
