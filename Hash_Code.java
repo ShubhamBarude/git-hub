@@ -3,7 +3,7 @@ package Collection;
 import java.util.HashSet;
 
 public class Hash_Code {
-
+//updates
    /* @Override
     public int hashCode() {
         return 1000;
